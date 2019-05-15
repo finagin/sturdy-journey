@@ -1,8 +1,14 @@
 [![Software License][ico-license]](LICENSE)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Installation](#installation)
   - [Development](#development)
 - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Installation
 ### Development
@@ -30,4 +36,3 @@ The MIT License ([MIT](https://opensource.org/licenses/MIT)). Please see [Licens
 <!-- Icons -->
 
 [ico-license]: https://img.shields.io/github/license/mashape/apistatus.svg
-
