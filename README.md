@@ -36,7 +36,7 @@ The MIT License ([MIT](https://opensource.org/licenses/MIT)). Please see [Licens
 
 <!-- Icons -->
 
-[ico-license]: https://img.shields.io/github/license/mashape/apistatus.svg
+[ico-license]: https://img.shields.io/github/license/finagin/sturdy-journey.svg?style=flat-square
 
 [ico-styleci]: https://styleci.io/repos/187009426/shield?style=square
 [link-styleci]: https://styleci.io/repos/187009426
