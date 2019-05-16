@@ -1,3 +1,4 @@
+[![StyleCI][ico-styleci]][link-styleci]
 [![Software License][ico-license]](LICENSE)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -36,3 +37,6 @@ The MIT License ([MIT](https://opensource.org/licenses/MIT)). Please see [Licens
 <!-- Icons -->
 
 [ico-license]: https://img.shields.io/github/license/mashape/apistatus.svg
+
+[ico-styleci]: https://styleci.io/repos/187009426/shield?style=square
+[link-styleci]: https://styleci.io/repos/187009426
